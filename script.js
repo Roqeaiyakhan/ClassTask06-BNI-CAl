@@ -30,47 +30,4 @@ function interpretBMI(bmi) {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// function calculateBMI() {
-//     let weight = document.getElementById('weight').value;
-//     let height = document.getElementById('height').value;
-
-//     // BMI calculation formula
-//     let bmi = weight / ((height / 100) * (height / 100));
-
-//     // Displaying the result
-//     document.getElementById('result').innerHTML = 'Your BMI is ' + bmi.toFixed(2);
-
-//     // Providing feedback based on BMI range
-//     function interpretBMI(bmi) {
-//              if (bmi < 18.6) {
-//                  return 'Underweight';
-//              } else if (bmi >= 18.6 && bmi <= 24.9) {
-//               return 'Normal range';
-//          } else {
-//                return 'Overweight';
-//            }
-//         }}
         
